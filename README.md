@@ -3,6 +3,7 @@
 The purpose of this repo is as a tutorial. Using the api.imgflip.com service we will build a simple API client.
 
 ## In place
+
 Already in place for you are:
 1. flags, the basic flags are defined and validate
 2. data structures, structs with tags for the response from the api
