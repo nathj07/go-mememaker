@@ -12,6 +12,7 @@ import (
 
 	"github.com/davecgh/go-spew/spew"
 	"github.com/hashicorp/go-multierror"
+
 	"github.com/nathj07/go-mememaker/data"
 )
 
